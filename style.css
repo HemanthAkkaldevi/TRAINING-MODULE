@@ -7,5 +7,8 @@ body{
 	height: 100vh;
 	background: #9A2EFE;
 }
-<div><p>I understand the meaning of all elements used here</p></div>
+.text1{
+    border-style: double;
+}
+/*I understand the meaning of all elements used here*/
 
